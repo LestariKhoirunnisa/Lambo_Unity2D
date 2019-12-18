@@ -185,15 +185,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 3
       m_ColliderType: 1
-  - first: {x: -4, y: -2, z: 0}
-    second:
-      m_TileIndex: 21
-      m_TileSpriteIndex: 0
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_ObjectToInstantiate: {fileID: 0}
-      m_TileFlags: 1
-      m_ColliderType: 1
   - first: {x: -3, y: -2, z: 0}
     second:
       m_TileIndex: 22
@@ -409,8 +400,8 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 3741993a69c2d47ab9600f0b309c4440, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 86a73272ac1bb443f9ac8ff657ba612f, type: 2}
   - m_RefCount: 1
@@ -440,8 +431,8 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 192427427bc154af1a302902d368c803, type: 2}
   m_TileSpriteArray:
-  - m_RefCount: 1
-    m_Data: {fileID: 21300000, guid: 5076a2739100bd449964b252d1b87a82, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: d2578fb3a1a6d8946b969570deee129b, type: 3}
   - m_RefCount: 1
@@ -513,7 +504,7 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 0}
   m_TileMatrixArray:
-  - m_RefCount: 36
+  - m_RefCount: 35
     m_Data:
       e00: 1
       e01: 0
@@ -532,42 +523,42 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 19
+  - m_RefCount: 18
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.73398525, g: 0.46330914, b: 0.53681195, a: 1}
+    m_Data: {r: 0.75936556, g: 0.4156526, b: 0.44958118, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.7572268, g: 0.4872106, b: 0.5424573, a: 1}
+    m_Data: {r: 0.73729014, g: 0.36154443, b: 0.41937068, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.7377256, g: 0.5023367, b: 0.5277031, a: 1}
+    m_Data: {r: 0.8108401, g: 0.40229705, b: 0.40480736, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.8366819, g: 0.57165027, b: 0.61243767, a: 1}
+    m_Data: {r: 0.75057125, g: 0.4186375, b: 0.44855464, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.75930715, g: 0.39561158, b: 0.4971542, a: 1}
+    m_Data: {r: 0.7818692, g: 0.51939905, b: 0.6011807, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.9081586, g: 0.44314355, b: 0.55433327, a: 1}
+    m_Data: {r: 0.92228186, g: 0.53570586, b: 0.64463073, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.744293, g: 0.4133077, b: 0.51192755, a: 1}
+    m_Data: {r: 0.8867013, g: 0.46632725, b: 0.49665132, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.7683894, g: 0.34989005, b: 0.4377055, a: 1}
+    m_Data: {r: 0.7992748, g: 0.3395552, b: 0.46058312, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.86811143, g: 0.49491858, b: 0.57497966, a: 1}
+    m_Data: {r: 0.8509653, g: 0.43335283, b: 0.56638336, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.89914286, g: 0.47271073, b: 0.56338435, a: 1}
+    m_Data: {r: 0.9094347, g: 0.5190325, b: 0.5325848, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.8140276, g: 0.37888816, b: 0.45263636, a: 1}
+    m_Data: {r: 0.7827678, g: 0.5335211, b: 0.57267934, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.8074618, g: 0.5430473, b: 0.57704383, a: 1}
+    m_Data: {r: 0.8982902, g: 0.39009702, b: 0.5047223, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.75349796, g: 0.36096156, b: 0.411979, a: 1}
+    m_Data: {r: 0.7869998, g: 0.50901985, b: 0.59267527, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.78951997, g: 0.536572, b: 0.5847106, a: 1}
+    m_Data: {r: 0.9984322, g: 0.41776645, b: 0.4767791, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.7586514, g: 0.40243027, b: 0.40479556, a: 1}
+    m_Data: {r: 0.914756, g: 0.41797775, b: 0.5722488, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.95160276, g: 0.5485975, b: 0.6027931, a: 1}
+    m_Data: {r: 0.7499777, g: 0.4318105, b: 0.5287424, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.96068424, g: 0.63747716, b: 0.6409508, a: 1}
+    m_Data: {r: 0.8847422, g: 0.56081784, b: 0.6631381, a: 1}
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -4, y: -5, z: 0}
